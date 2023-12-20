@@ -240,7 +240,7 @@ section#cards
 .card
 {
     width: 400px;
-    min-height: 85vh;
+    min-height: 55vh;
     margin-bottom: 80px;
     padding: 3px;
     border-radius: 20px;
